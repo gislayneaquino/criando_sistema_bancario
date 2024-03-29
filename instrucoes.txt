@@ -1,0 +1,17 @@
+Implementar apenas 3 operações:
+- depósito
+- saque
+- extrato
+
+--> DEPÓSITO
+devem ser armazenados em uma variável e exibidos nas operações de extrato.
+
+--> SAQUE
+deve permitir 03 saques diários com limite máximo de R$ 500,00 por saque,
+se não tiver saldo exibir mensagem ao usuário,
+deve armazenar em uma variável e exibir na operação de extrato.
+
+--> EXTRATO
+listar todas as operações realizadas, ao final mostrar o saldo atual.
+se estiver em branco, exibir "NÃO FORAM REALIZADAS MOVIMENTAÇÕES."
+exibir valores usando o R$ ...,..
